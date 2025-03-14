@@ -1,0 +1,1447 @@
+[
+{
+      "categoria": "Generale",
+      "question": "Nella scheda a punteggio ha un'incidenza del 15% sul totale:",
+      "options": [
+        "Aspetto",
+        "Complessità, attrattiva",
+        "Armonia complessiva",
+        "Intensità, struttura",
+        "Equilibrio gustativo"
+      ],
+      "answer": "Equilibrio gustativo"
+},
+{
+      "categoria": "Generale",
+      "question": "Nella scheda a punteggio il coefficiente correttivo dell'equilibrio è:",
+      "options": ["0.5", "1", "1.5", "2"],
+      "answer": "1"
+},
+{
+      "categoria": "Generale",
+      "question": "Chi ha detto: 'una delle più grandi difficoltà in degustazione è saper apprezzare (quindi valutare) ciascun vino all'interno della propria categoria'?",
+      "options": ["Anne C. Noble", "Luigi Veronelli", "Émile Peynaud"],
+      "answer": "Émile Peynaud"
+},
+{
+      "categoria": "Generale",
+      "question": "Il tempo che intercorre tra lo stimolo e la percezione dell'amarezza è di circa?",
+      "options": ["1 secondo", "3 secondi", "2 secondi", "È immediato"],
+      "answer": "3 secondi"
+},
+{
+      "categoria": "Generale",
+      "question": "Il colore rosa corallo è, tra l'altro, l'evoluzione del colore ramato",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+},
+{
+      "categoria": "Generale",
+      "question": "La complessità olfattiva è un elemento di minor distinzione del profumo del vino: molto più incisivo è l'aspetto dell'intensità.",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+},
+{
+      "categoria": "Generale",
+      "question": "Più elevato è il valore della purezza olfattiva, più nitida potrà essere la riconoscibilità del vino, intesa soprattutto come inconfondibile espressione di un terroir vitivinicolo.",
+      "options": ["Vero", "Falso"],
+      "answer": "Vero"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Nella valutazione della qualità di un vino, nella scheda a punti ogni passaggio va valutato in riferimento alla categoria di appartenenza del vino.",
+      "options": ["Vero", "Falso"],
+      "answer": "Vero"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Nella scheda di valutazione a punteggio, il parametro di purezza ed eleganza olfattiva ha un coefficiente di correzione (peso%) uguale a quello dell’aspetto del vino.",
+      "options": ["Vero", "Falso"],
+      "answer": "Vero"
+    },
+    {
+      "categoria": "Generale",
+      "question": "La sensazione di calore che si percepisce nel vino dipende completamente dalla quantità di alcol.",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Nella scheda a punti, le considerazioni finali hanno un peso del 20%.",
+      "options": ["Vero", "Falso"],
+      "answer": "Vero"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Nella scheda a punteggio l’esame gusto-olfattivo rappresenta il 40% del punteggio totale?",
+      "options": ["Vero", "Falso"],
+      "answer": "Vero"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Un vino poco equilibrato non presenta margini di miglioramento qualitativo.",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Generale",
+      "question": "I profumi secondari del vino sono più qualitativi dei profumi terziari?",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Generale",
+      "question": "In molti hanno tentato di definire il concetto di qualità del vino, delle definizioni sotto indicate quale ritenete la più espressiva?",
+      "options": [
+        "La qualità può essere provata, contestata, piuttosto che definita",
+        "La qualità di un vino si prova, più che dimostrarla",
+        "La qualità di un vino è più facile da riconoscere che definire",
+        "Tutte e tre le precedenti definizioni sono corrette"
+      ],
+      "answer": "Tutte e tre le precedenti definizioni sono corrette"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Nella scheda a punti, un vino spumante avente bollicine fini numerose e persistenti all'esame visivo ottiene un punteggio minimo di 9?",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Il profumo di smalto o vernice è diretta conseguenza della sosta in barrique del vino?",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Nella scheda a punteggio ha un'incidenza del 15% sul totale:",
+      "options": [
+        "Aspetto",
+        "Complessità, attrattiva",
+        "Armonia complessiva",
+        "Intensità, struttura",
+        "Equilibrio gustativo"
+      ],
+      "answer": "Complessità, attrattiva"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Nella scheda a punti, qual è il peso (valore %) dell'esame olfattivo del vino?",
+      "options": ["10%", "20%", "30%", "40%"],
+      "answer": "30%"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Chi ha detto: \"una delle più grandi difficoltà in degustazione è saper apprezzare (quindi valutare) ciascun vino all'interno della propria categoria\"?",
+      "options": ["Anne C. Noble", "Luigi Veronelli", "Émile Peynaud"],
+      "answer": "Émile Peynaud"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Sono quelle papille che ci consentono di rilevare la diversa consistenza del vino?",
+      "options": ["Fungiformi", "Caliciformi", "Foliate", "Filiformi"],
+      "answer": "Filiformi"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Il tempo che intercorre tra lo stimolo e la percezione della dolcezza è di circa?",
+      "options": ["immediato", "3 secondi", "2 secondi", "1 secondo"],
+      "answer": "1 secondo"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Nella scheda a punteggio l’esame gusto-olfattivo rappresenta il 40% del punteggio totale?",
+      "options": ["Vero", "Falso"],
+      "answer": "Vero"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Nella scheda a punteggio il coefficiente correttivo dell’armonia è 1",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Nella scheda di valutazione a punteggio, il parametro della complessità e attrattiva olfattiva ha un coefficiente di correzione uguale a quello della persistenza e attrattiva gusto-olfattiva",
+      "options": ["Vero", "Falso"],
+      "answer": "Vero"
+    },
+    {
+      "categoria": "Sicilia",
+      "question": "La malvasia di Lipari è un vitigno aromatico?",
+      "options": ["Vero", "Falso"],
+      "answer": "Vero"
+    },
+    {
+      "categoria": "Generale",
+      "question": "La presenza di profumi di pasticceria o panificazione in uno spumante ottenuto con il metodo Charmat è generalmente inferiore rispetto a uno spumante ottenuto con rifermentazione in bottiglia?",
+      "options": ["Vero", "Falso"],
+      "answer": "Vero"
+    },
+    {
+      "categoria": "Toscana",
+      "question": "Nel Vin Santo Toscano si riconosce un profumo fragrante a connotazione ossidativa",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Nella scheda a punteggio il coefficiente correttivo dell’armonia è 0.5",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Nella scheda a punti, il peso del parametro della persistenza e attrattiva all’esame gusto-olfattivo, è 15%?",
+      "options": ["Vero", "Falso"],
+      "answer": "Vero"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Nella scheda a punti, un vino spumante avente bollicine fini numerose e persistenti all’esame visivo ottiene un punteggio minimo di 9?",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Il profumo di smalto o vernice è diretta conseguenza della sosta in barrique del vino?",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Nella scheda a punteggio il coefficiente correttivo dell’armonia è 0.5",
+      "options": ["Vero", "Falso"],
+      "answer": "Vero"
+    },
+    {
+      "categoria": "Generale",
+      "question": "L’identificazione della tipicità olfattiva ha maggior valore qualitativo nel vino bianco rispetto al rosato?",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Nella scheda di valutazione a punteggio la complessità olfattiva ha un coefficiente di correzione uguale a quello dell’aspetto visivo",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Generale",
+      "question": "La sapidità e l’effetto alcolico si avvertono meglio alla bassa temperatura?",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Generale",
+      "question": "La trasparenza non è influenzata dalla sosta in bottiglia.",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Il profumo di smalto o vernice è diretta conseguenza della sosta in barrique del vino",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Nella scheda a punti, all’esame gusto-olfattivo si valuta: l’intensità e la struttura, l’equilibrio, l’espressività e l’eleganza oltre che la persistenza e l’attrattiva",
+      "options": ["Vero", "Falso"],
+      "answer": "Vero"
+    },
+    {
+      "categoria": "Generale",
+      "question": "La complessità olfattiva è influenzata dall’intensità olfattiva.",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Generale",
+      "question": "L’odore di pipì di gatto è la migliore espressione di tipicità del vino da uva sauvignon?",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Per stabilire il punteggio dell’aspetto visivo del vino, la tonalità ha una maggiore rilevanza rispetto alla lucentezza",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Nella scheda a punti, qual è il peso (valore %) dell’esame olfattivo del vino?",
+      "options": ["10%", "20%", "30%", "40%"],
+      "answer": "30%"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Il tempo che intercorre tra lo stimolo e la percezione della dolcezza è di circa?",
+      "options": ["È immediato", "3 secondi", "2 secondi", "1 secondo"],
+      "answer": "1 secondo"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Quante diverse tonalità di colore è in grado di distinguere una persona?",
+      "options": ["Circa 150", "Circa 150-180", "Circa 100", "Circa 180-200"],
+      "answer": "Circa 180-200"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Il tempo che intercorre tra lo stimolo e la percezione dell’amarezza è di circa?",
+      "options": ["1 secondo", "3 secondi", "2 secondi", "È immediato"],
+      "answer": "3 secondi"
+    },
+    {
+      "categoria": "Generale",
+      "question": "Nella scheda a punteggio ha un’incidenza del 10% sul totale:",
+      "options": [
+        "Intensità, struttura",
+        "Intensità olfattiva",
+        "Armonia complessiva",
+        "Aspetto"
+      ],
+      "answer": "Aspetto"
+    },
+  {
+    "categoria": "Veneto",
+    "question": "Nella DOP Lison-Pramaggiore sono ammessi, minimo 85%, i vitigni carmenere, malbech e petit verdot",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Friuli-Venezia Giulia",
+    "question": "L’uva Terrano rientra nella DOC Friuli Colli Orientali.",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Veneto",
+    "question": "Nella zona del Soave i vini ottenuti dalle colline (basaltiche o calcaree) trattengono una migliore pienezza gustativa, anche in freschezza, rispetto a quelli della piana alluvionale",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Veneto",
+    "question": "La zona di produzione del Prosecco DOC comprende anche le provincie di Verona, Vicenza, Venezia e Trieste",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Veneto",
+    "question": "Il Bardolino Novello si ottiene con macerazione carbonica per almeno l’85%",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Veneto",
+    "question": "Nella zona di Soave il vitigno garganega, se coltivato su suolo calcareo, offre vini di grande eleganza",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Friuli-Venezia Giulia",
+    "question": "Il Refosco di Prepotto è generalmente più strutturato dello Schiopettino di Faedis.",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Friuli-Venezia Giulia",
+    "question": "Nella DOC Friuli Isonzo la zona Rive di Giare ha clima più caldo della Rive Alte",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Friuli-Venezia Giulia",
+    "question": "La DOC Friuli Latisana è un cuscinetto di territorio tra Friuli Annia e Friuli Aquileia",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Friuli-Venezia Giulia",
+    "question": "La coltivazione dello schiopettino nero si concentra nella provincia di Gorizia",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Generale",
+    "question": "Un vino viscoso è molto ricco, in particolare, di:",
+    "options": ["Alcol", "Acidi", "Sostanze sapide", "Zuccheri"],
+    "answer": "Zuccheri"
+  },
+  {
+    "categoria": "Friuli-Venezia Giulia",
+    "question": "Nel Friuli Latisana DOC è ammessa in etichetta l’indicazione dei vitigni:",
+    "options": ["Picolit", "Tazzelenghe", "Malvasia istriana"],
+    "answer": "Malvasia istriana"
+  },
+  {
+    "categoria": "Veneto",
+    "question": "Sono affermazioni corrette parlando del vitigno glera coltivato in Veneto:",
+    "options": ["Ha grappoli lunghi e spargoli", "Prosecco verde è un biotipo", "Ha maturazione molto precoce"],
+    "answer": "Ha grappoli lunghi e spargoli"
+  },
+  {
+    "categoria": "Veneto",
+    "question": "Veneto. Sono vini DOP in cui il vitigno principale è la corvina:",
+    "options": ["Bardolino, Valpolicella", "Bardolino, Montello", "Piave, Valpolicella"],
+    "answer": "Bardolino, Valpolicella"
+  },
+  {
+    "categoria": "Friuli-Venezia Giulia",
+    "question": "Il terreno delle Grave del Friuli è descrivibile come:",
+    "options": [
+      "Una miscela di arenaria e argilla",
+      "Una miscela di calcare e argilla",
+      "Terreno intriso di ciottoli e ghiaia portato a valle dalle acque"
+    ],
+    "answer": "Terreno intriso di ciottoli e ghiaia portato a valle dalle acque"
+  },
+  {
+    "categoria": "Friuli-Venezia Giulia",
+    "question": "In Friuli Venezia Giulia il terrano del Carso e Terrano d’Istria sono due vitigni diversi",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Veneto",
+    "question": "Il Breganze Torcolato, da uva vespaiola, è prodotto nelle versioni secco, abboccato e dolce.",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Veneto",
+    "question": "Il Bianco di Custoza ha profumi che ricordano la salvia, la mimosa, l’acacia e fiori del mandorlo",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Veneto",
+    "question": "Il Garda DOC Chiaretto Classico prevede, tra le uve, barbera, sangiovese e teroldego.",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Friuli-Venezia Giulia",
+    "question": "La tipologia Colli Orientali del Friuli Cialla Verduzzo friulano non esiste.",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  
+    {
+      "categoria": "Veneto",
+      "question": "Il Breganze Torcolato, da uva vespaiola, deve il nome dall’usanza di attorcigliare il pedicello del grappolo?",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Friuli-Venezia Giulia",
+      "question": "I vigneti posti in prossimità del Tagliamento sono magri e molto permeabili, chiamati 'magredi'; i vini qui prodotti sono ricchi di estratto e molto profumati.",
+      "options": ["Vero", "Falso"],
+      "answer": "Vero"
+    },
+    {
+      "categoria": "Veneto",
+      "question": "L'ormella è un vitigno autoctono impiegato nella produzione del Torchiato di Fregona DOCG.",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Veneto",
+      "question": "Il vitigno garganega coltivato in Veneto ha un germogliamento precoce",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Friuli-Venezia Giulia",
+      "question": "Il vitigno autoctono a bacca nera più coltivato in Friuli Venezia Giulia è lo schiopettino",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Veneto",
+      "question": "In Veneto il Colli di Conegliano Refrontolo Passito è un rosso dal gusto 'dolce' ottenuto da uve:",
+      "options": ["Marzemino", "Raboso del Piave", "Incrocio Manzoni 2.15"],
+      "answer": "Marzemino"
+    },
+    {
+      "categoria": "Friuli-Venezia Giulia",
+      "question": "Sono affermazioni false parlando del vitigno verduzzo coltivato in Friuli Venezia Giulia:",
+      "options": ["Malaga è un suo sinonimo", "Ha grappolo piccolo", "È autoctono"],
+      "answer": "Malaga è un suo sinonimo"
+    },
+    {
+      "categoria": "Friuli-Venezia Giulia",
+      "question": "I terreni sabbioso-argillosi della DOC Friuli-Aquileia offrono una buona mineralità gusto-olfattiva ai vini ottenuti da friulano, quale altro vitigno trova ideale coltivazione?",
+      "options": ["Pignolo", "Tazzelenghe", "Schiopettino", "Refosco dal peduncolo rosso"],
+      "answer": "Refosco dal peduncolo rosso"
+    },
+    {
+      "categoria": "Friuli-Venezia Giulia",
+      "question": "In quale DOC del Friuli VG, il vitigno friulano non trova produzione",
+      "options": ["Collio", "Colli Orientali del Friuli", "Carso"],
+      "answer": "Carso"
+    },
+    {
+      "categoria": "Friuli-Venezia Giulia",
+      "question": "Sono affermazioni corrette parlando del vitigno terrano coltivato in Friuli Venezia Giulia:",
+      "options": ["È usato nella DOC Friuli Isonzo", "Dà vino poco colorato", "È sinonimo di Cagnina"],
+      "answer": "È sinonimo di Cagnina"
+    },
+    {
+      "categoria": "Veneto",
+      "question": "I vini con denominazione Valpolicella Ripasso sono macerati sulle vinacce residue della preparazione dei vini Amarone della Valpolicella e Recioto della Valpolicella?",
+      "options": ["Vero", "Falso"],
+      "answer": "Vero"
+    },
+    {
+      "categoria": "Veneto",
+      "question": "Il moscato giallo nei Colli Euganei si chiama anche sirio oppure fiori d’arancio?",
+      "options": ["Vero", "Falso"],
+      "answer": "Vero"
+    },
+    {
+      "categoria": "Friuli-Venezia Giulia",
+      "question": "I vigneti posti in prossimità del Tagliamento sono magri e molto permeabili, chiamati 'magredi'; i vini qui prodotti sono ricchi di estratto e molto profumati.",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Friuli-Venezia Giulia",
+      "question": "San Floriano, nella DOC Collio, è un cru di malvasia istriana.",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Friuli-Venezia Giulia",
+      "question": "La vitovska è un vitigno a bacca nera coltivato in Friuli Venezia Giulia che può considerarsi autoctono.",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Veneto",
+      "question": "Tra le principali macrozone vitivinicole del Veneto troviamo il Bellunese e il Trevigiano.",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Generale",
+      "question": "L’equilibrio gustativo del vino non ha riflessi sulla gradevolezza olfattiva.",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Veneto",
+      "question": "Nella zona di Soave il vitigno garganega, se coltivato su suolo calcareo, offre vini con struttura robusta.",
+      "options": ["Vero", "Falso"],
+      "answer": "Falso"
+    },
+    {
+      "categoria": "Friuli-Venezia Giulia",
+      "question": "L'uva ribolla gialla ha una maturazione più precoce rispetto al verduzzo friulano e al picolit.",
+      "options": ["Vero", "Falso"],
+      "answer": "Vero"
+    },
+    {
+      "categoria": "Friuli-Venezia Giulia",
+      "question": "In Friuli Venezia Giulia è diffusa una variante del sistema di allevamento sylvoz, il suo nome è Casarsa.",
+      "options": ["Vero", "Falso"],
+      "answer": "Vero"
+    },
+    
+        {
+          "categoria": "Friuli-Venezia Giulia",
+          "question": "Sono affermazioni corrette parlando del vitigno terrano coltivato in Friuli Venezia Giulia:",
+          "options": ["È usato nella DOC Friuli Isonzo", "Dà vino poco colorato", "È sinonimo di Cagnina"],
+          "answer": "È sinonimo di Cagnina"
+        },
+        {
+          "categoria": "Veneto",
+          "question": "In Veneto, il nome del vino Recioto deriva da:",
+          "options": [
+            "Regio: vino destinato alla corte d'Austria",
+            "Recia: la parte più alta del grappolo, quella meglio esposta",
+            "Recia: nome dialettale dell'uva corvina"
+          ],
+          "answer": "Recia: la parte più alta del grappolo, quella meglio esposta"
+        },
+        {
+          "categoria": "Friuli-Venezia Giulia",
+          "question": "È un vitigno autoctono del Friuli Venezia Giulia:",
+          "options": ["Sauvignon", "Pinot grigio", "Ribolla gialla", "Traminer aromatico"],
+          "answer": "Ribolla gialla"
+        },
+        {
+          "categoria": "Friuli-Venezia Giulia",
+          "question": "I terreni sabbioso-argillosi della DOC Friuli-Aquileia offrono una buona mineralità gusto-olfattiva ai vini ottenuti da friulano, quale altro vitigno trova ideale coltivazione?",
+          "options": ["Pignolo", "Tazzelenghe", "Schiopettino", "Refosco dal peduncolo rosso"],
+          "answer": "Refosco dal peduncolo rosso"
+        },
+        {
+          "categoria": "Friuli-Venezia Giulia",
+          "question": "Friuli Venezia Giulia. Nella DOCG Rosazzo il disciplinare indica come obbligatori i vitigni:",
+          "options": ["Sauvignon", "Ribolla gialla", "Pinot grigio"],
+          "answer": "Sauvignon"
+        },
+        {
+          "categoria": "Toscana",
+          "question": "In Toscana il vitigno vermentino si esprime al meglio nelle zone litoranee",
+          "options": ["Vero", "Falso"],
+          "answer": "Vero"
+        },
+        {
+          "categoria": "Toscana",
+          "question": "La Vernaccia di San Gimignano è l’unico vino bianco DOCG della Toscana.",
+          "options": ["Vero", "Falso"],
+          "answer": "Vero"
+        },
+        {
+          "categoria": "Toscana",
+          "question": "Toscana. Il Chianti è ottenuto principalmente da uva sangiovese",
+          "options": ["Vero", "Falso"],
+          "answer": "Vero"
+        },
+        {
+          "categoria": "Toscana",
+          "question": "In Toscana, a Montalcino, si coltiva il moscato bianco",
+          "options": ["Vero", "Falso"],
+          "answer": "Falso"
+        },
+        {
+          "categoria": "Liguria",
+          "question": "Liguria. Una delle caratteristiche organolettiche del vino Ormeasco di Pornassio è la robusta struttura tannica",
+          "options": ["Vero", "Falso"],
+          "answer": "Falso"
+        },
+        {
+          "categoria": "Toscana",
+          "question": "Toscana. La versione Val d’Arbia Vin Santo Riserva DOC impiega l’uva malvasia bianca lunga per almeno il 70%",
+          "options": ["Vero", "Falso"],
+          "answer": "Falso"
+        },
+        {
+          "categoria": "Toscana",
+          "question": "Toscana. Montecucco Sangiovese DOCG Riserva deve sostare in legno per 24 mesi",
+          "options": ["Vero", "Falso"],
+          "answer": "Vero"
+        },
+        {
+          "categoria": "Toscana",
+          "question": "Toscana. Il sangiovese forte e il sangiovese romagnolo a cannello lungo sono dei biotipi identici.",
+          "options": ["Vero", "Falso"],
+          "answer": "Falso"
+        },
+        {
+          "categoria": "Liguria",
+          "question": "In Liguria mataossu e buzzetto sono lo stesso vitigno",
+          "options": ["Vero", "Falso"],
+          "answer": "Vero"
+        },
+        {
+          "categoria": "Liguria",
+          "question": "Liguria. La Costa dei Fieschi è una sottozona della DOC Riviera Ligure di Ponente?",
+          "options": ["Vero", "Falso"],
+          "answer": "Falso"
+        },
+        {
+          "categoria": "Toscana",
+          "question": "Toscana. Quanti mesi di maturazione in legno sono previsti per il Chianti Classico Gran Selezione?",
+          "options": ["12 mesi", "18 mesi", "24 mesi", "Non è indicata la sosta in legno"],
+          "answer": "Non è indicata la sosta in legno"
+        },
+        {
+          "categoria": "Toscana",
+          "question": "Toscana. Qual è il periodo minimo di affinamento in legno per il Brunello di Montalcino DOCG?",
+          "options": ["4 anni", "3 anni", "2 anni"],
+          "answer": "2 anni"
+        },
+        {
+          "categoria": "Liguria",
+          "question": "Sono affermazioni corrette parlando del vitigno pigato coltivato in Liguria:",
+          "options": ["Pigau è un clone", "Matura molto tardi", "Ha stretta parentela con la favorita"],
+          "answer": "Ha stretta parentela con la favorita"
+        },
+        {
+          "categoria": "Toscana",
+          "question": "Sono affermazioni corrette parlando del vitigno trebbiano toscano coltivato in Toscana:",
+          "options": ["Ha grappolo grande", "Ha origine greche", "Pulce è un suo sinonimo"],
+          "answer": "Ha origine greche"
+        },
+        {
+          "categoria": "Liguria",
+          "question": "Liguria. È un vitigno che il disciplinare indica come obbligatorio per l'elaborazione del Colline di Levanto bianco DOC:",
+          "options": ["Trebbiano toscano", "Scimiscià", "Bosco"],
+          "answer": "Bosco"
+        },
+    
+            {
+              "categoria": "Toscana",
+              "question": "Toscana. Il vitigno principale del Montecarlo Bianco DOC è il trebbiano toscano",
+              "options": ["Vero", "Falso"],
+              "answer": "Vero"
+            },
+            {
+              "categoria": "Toscana",
+              "question": "In Toscana il territorio della DOC Cortona trova nel vitigno grechetto un ottimo interprete per produrre vini delicatamente fruttati e floreali, con equilibrate note gustative di freschezza e sapidità.",
+              "options": ["Vero", "Falso"],
+              "answer": "Vero"
+            },
+            {
+              "categoria": "Toscana",
+              "question": "Toscana. Tra le tipologie produttive del Moscadello di Montalcino c'è lo Spumante",
+              "options": ["Vero", "Falso"],
+              "answer": "Falso"
+            },
+            {
+              "categoria": "Liguria",
+              "question": "In Liguria i terreni argillosi della Riviera Ligure di Ponente danno al Vermentino una spiccata mineralità.",
+              "options": ["Vero", "Falso"],
+              "answer": "Falso"
+            },
+            {
+              "categoria": "Toscana",
+              "question": "Toscana. Il Vin Santo di Montalcino è ottenuto con uve trebbiano toscano e malvasia bianca lunga.",
+              "options": ["Vero", "Falso"],
+              "answer": "Falso"
+            },
+            {
+              "categoria": "Liguria",
+              "question": "Liguria. Massaretta e pollera sono entrambi vitigni a bacca nera",
+              "options": ["Vero", "Falso"],
+              "answer": "Vero"
+            },
+            {
+              "categoria": "Toscana",
+              "question": "Toscana. La DOC Montecarlo contempla le versioni produttive Sauvignon e Vermentino",
+              "options": ["Vero", "Falso"],
+              "answer": "Vero"
+            },
+            {
+              "categoria": "Toscana",
+              "question": "Toscana. La zona di produzione del Brunello di Montalcino è quella della sola estensione territoriale del comune di Montalcino.",
+              "options": ["Vero", "Falso"],
+              "answer": "Vero"
+            },
+            {
+              "categoria": "Liguria",
+              "question": "Liguria. Il rossese di Campochiesa è più coltivato nella DOC Riviera Ligure di Ponente che a Dolceacqua",
+              "options": ["Vero", "Falso"],
+              "answer": "Vero"
+            },
+            {
+              "categoria": "Toscana",
+              "question": "In Toscana il massaretta è un vitigno a bacca nera coltivato in provincia di Massa Carrara",
+              "options": ["Vero", "Falso"],
+              "answer": "Vero"
+            },
+            {
+              "categoria": "Liguria",
+              "question": "È coltivato in Liguria e ha grappolo spargolo e buccia spessa?",
+              "options": ["Bosco", "Albarola", "Pigato"],
+              "answer": "Bosco"
+            },
+            {
+              "categoria": "Toscana",
+              "question": "Toscana. È il vitigno che da disciplinare è obbligatorio nella DOC Val di Cornia:",
+              "options": ["Vermentino bianco", "Ansonica", "Malvasia bianca"],
+              "answer": "Vermentino bianco"
+            },
+            {
+              "categoria": "Toscana",
+              "question": "In Toscana il vitigno syrah trova coltivazione più estesa nella provincia di:",
+              "options": ["Siena", "Firenze", "Arezzo"],
+              "answer": "Arezzo"
+            },
+            {
+              "categoria": "Toscana",
+              "question": "In quale denominazione di origine della Toscana è molto diffuso il sistema di allevamento a cordone speronato?",
+              "options": ["Candia dei Colli Apuani", "Montalcino", "Cortona"],
+              "answer": "Montalcino"
+            },
+            {
+              "categoria": "Liguria",
+              "question": "In Liguria, l’Ormeasco di Pornassio Sciac-trà è un vino:",
+              "options": ["Rosso secco", "Rosato dolce", "Rosato secco"],
+              "answer": "Rosato secco"
+            },
+            {
+              "categoria": "Sardegna/Toscana",
+              "question": "La vernaccia di Oristano coltivata in Sardegna e la vernaccia di San Gimignano coltivata in Toscana sono lo stesso vitigno?",
+              "options": ["Vero", "Falso"],
+              "answer": "Falso"
+            },
+            {
+              "categoria": "Liguria",
+              "question": "Liguria. La Costa dei Fieschi è una sottozona della DOC Riviera Ligure di Ponente?",
+              "options": ["Vero", "Falso"],
+              "answer": "Falso"
+            },
+            {
+              "categoria": "Toscana",
+              "question": "Le macrozone vitivinicole della Toscana sono il Chianti, la Costa tirrenica e le colline della Toscana Centrale.",
+              "options": ["Vero", "Falso"],
+              "answer": "Falso"
+            },
+            {
+              "categoria": "Toscana",
+              "question": "Toscana. Nell’Elba DOC si può indicare indifferentemente in etichetta Sangiovese o Sangioveto?",
+              "options": ["Vero", "Falso"],
+              "answer": "Vero"
+            },
+            {
+              "categoria": "Toscana",
+              "question": "Toscana. Il Vin Santo 'Occhio di Pernice' si produce minimo con l'80% di sangiovese.",
+              "options": ["Vero", "Falso"],
+              "answer": "Falso"
+            },
+                {
+                  "categoria": "Toscana",
+                  "question": "In Toscana, a Montalcino, si coltiva il moscato bianco?",
+                  "options": ["Vero", "Falso"],
+                  "answer": "Vero"
+                },
+                {
+                  "categoria": "Liguria",
+                  "question": "Il vitigno nebbiolo è diffusamente coltivato a Dolceacqua, in Liguria.",
+                  "options": ["Vero", "Falso"],
+                  "answer": "Falso"
+                },
+                {
+                  "categoria": "Toscana",
+                  "question": "Toscana. La versione Val d’Arbia Vin Santo Riserva DOC impiega l’uva malvasia bianca lunga per almeno il 70%.",
+                  "options": ["Vero", "Falso"],
+                  "answer": "Falso"
+                },
+                {
+                  "categoria": "Toscana",
+                  "question": "In Toscana il territorio della DOC Cortona trova nel vitigno grechetto un ottimo interprete per produrre vini delicatamente fruttati e floreali, con equilibrate note gustative di freschezza e sapidità.",
+                  "options": ["Vero", "Falso"],
+                  "answer": "Vero"
+                },
+                {
+                  "categoria": "Liguria",
+                  "question": "L’uva ormeasco coltivata in Liguria non è altro che l'uva dolcetto.",
+                  "options": ["Vero", "Falso"],
+                  "answer": "Vero"
+                },
+                {
+                  "categoria": "Liguria",
+                  "question": "In quale DOC della Liguria si utilizza il termine 'numeranze' per indicare una menzione geografica?",
+                  "options": ["Cinqueterre", "Colline di Levanto", "Dolceacqua"],
+                  "answer": "Dolceacqua"
+                },
+                {
+                  "categoria": "Liguria",
+                  "question": "Sono affermazioni false parlando di vermentino in Liguria.",
+                  "options": ["Ha maturazione media", "Rolle è un sinonimo", "Si coltiva nella DOC Pornassio"],
+                  "answer": "Si coltiva nella DOC Pornassio"
+                },
+                {
+                  "categoria": "Liguria",
+                  "question": "Nel versante occidentale della Liguria gli areali vitati sono in genere caratterizzati da terreni:",
+                  "options": ["Ricchi di arenaria", "Ricchi di calcare", "Ricchi di argilla"],
+                  "answer": "Ricchi di calcare"
+                },
+                {
+                  "categoria": "Liguria",
+                  "question": "Sono affermazioni false parlando del vitigno rossese coltivato in Liguria:",
+                  "options": ["Diffuso nel Ponente ligure", "È sempre usato in uvaggio", "Matura tardivamente"],
+                  "answer": "È sempre usato in uvaggio"
+                },
+                {
+                  "categoria": "Toscana",
+                  "question": "Sono affermazioni corrette parlando del vitigno aleatico coltivato in Toscana, all’Elba:",
+                  "options": ["Dà vini molto tannici", "Matura a fine settembre", "Ha grappolo grande"],
+                  "answer": "Matura a fine settembre"
+                },
+                {
+                  "categoria": "Marche",
+                  "question": "Marche. Maceratino è un tipico vitigno della DOC Colli Maceratesi, il cui altro nome è montecchiese",
+                  "options": ["Vero", "Falso"],
+                  "answer": "Vero"
+                },
+                {
+                  "categoria": "Marche",
+                  "question": "Marche. Il Colli Pesaresi Focara Pinot nero è Riserva anche se vinificato in bianco",
+                  "options": ["Vero", "Falso"],
+                  "answer": "Vero"
+                },
+                {
+                  "categoria": "Emilia-Romagna",
+                  "question": "Emilia-Romagna. Il Bosco Eliceo Fortana DOC può essere prodotto nelle versioni, secco, semisecco, amabile e dolce",
+                  "options": ["Vero", "Falso"],
+                  "answer": "Falso"
+                },
+                {
+                  "categoria": "Marche",
+                  "question": "Il vitigno a bacca bianca più diffuso nelle Marche è il verdicchio",
+                  "options": ["Vero", "Falso"],
+                  "answer": "Vero"
+                },
+                {
+                  "categoria": "Emilia-Romagna",
+                  "question": "Nella DOC Colli di Faenza si impiega pinot bianco in purezza",
+                  "options": ["Vero", "Falso"],
+                  "answer": "Vero"
+                },
+                {
+                  "categoria": "Generale",
+                  "question": "Il profumo fragrante nasce dalla fermentazione malolattica",
+                  "options": ["Vero", "Falso"],
+                  "answer": "Falso"
+                },
+                {
+                  "categoria": "Emilia-Romagna",
+                  "question": "Il Reggiano Spumante DOP è ottenuto da vinificazione in bianco di uve lambrusco Marani, di Sorbara, montericco, maestri e malbo gentile",
+                  "options": ["Vero", "Falso"],
+                  "answer": "Vero"
+                },
+                {
+                  "categoria": "Marche",
+                  "question": "Marche. La DOCG Vernaccia di Serrapetrona è una denominazione “a caduta”, come il Brunello di Montalcino e il Vino Nobile di Montepulciano",
+                  "options": ["Vero", "Falso"],
+                  "answer": "Vero"
+                },
+                {
+                  "categoria": "Emilia-Romagna",
+                  "question": "La sottozona Bertinoro è riserva solo al Romagna Sangiovese.",
+                  "options": ["Vero", "Falso"],
+                  "answer": "Falso"
+                },
+                {
+                  "categoria": "Emilia-Romagna",
+                  "question": "Il sangiovese, in Romagna, riesce a produrre vini molto fruttati, con struttura tannica e senza finale amaricante nei terreni collinari ricchi di calcare e argilla, e con poca disponibilità idrica.",
+                  "options": ["Vero", "Falso"],
+                  "answer": "Vero"
+                },
+                
+                    {
+                      "categoria": "Marche",
+                      "question": "In quale DOC delle Marche si produce la tipologia Sangiovese Rosato, menzionata anche in etichetta?",
+                      "options": ["Colli Pesaresi", "Colli Maceratesi", "Non esiste la tipologia"],
+                      "answer": "Non esiste la tipologia"
+                    },
+                    {
+                      "categoria": "Marche",
+                      "question": "Marche. Sono versioni produttive della DOC Colli Maceratesi:",
+                      "options": [
+                        "Ribona Riserva e Ribona Passito",
+                        "Ribona e Ribona Rosato",
+                        "Ribona Spumante e Ribona"
+                      ],
+                      "answer": "Ribona Spumante e Ribona"
+                    },
+                    {
+                      "categoria": "Marche",
+                      "question": "È il vitigno principale utilizzato nell'elaborazione del San Ginesio Rosso DOC:",
+                      "options": ["Merlot", "Ciliegiolo", "Sangiovese"],
+                      "answer": "Sangiovese"
+                    },
+                    {
+                      "categoria": "Emilia-Romagna",
+                      "question": "Romagna Albana DOCG si può produrre nelle tipologie:",
+                      "options": [
+                        "Secco, amabile, dolce, passito",
+                        "Secco, abboccato, amabile, dolce, passito e passito riserva",
+                        "Secco, amabile, dolce, passito e passito riserva"
+                      ],
+                      "answer": "Secco, amabile, dolce, passito e passito riserva"
+                    },
+                    {
+                      "categoria": "Emilia-Romagna",
+                      "question": "L’uva bianca più coltivata in Romagna è:",
+                      "options": ["Trebbiano romagnolo", "Albana di Romagna", "Pagadebit"],
+                      "answer": "Trebbiano romagnolo"
+                    },
+                    {
+                      "categoria": "Emilia-Romagna",
+                      "question": "Emilia. L’Ortrugo dei Colli Piacentini è un vino con personalità gustativa potente, ricca di tannino, grazie alla presenza di un 15% di cabernet sauvignon?",
+                      "options": ["Vero", "Falso"],
+                      "answer": "Falso"
+                    },
+                    {
+                      "categoria": "Marche",
+                      "question": "Marche. Il Colli Pesaresi Focara Pinot nero può essere anche spumantizzato in bianco?",
+                      "options": ["Vero", "Falso"],
+                      "answer": "Vero"
+                    },
+                    {
+                      "categoria": "Emilia-Romagna",
+                      "question": "Emilia. Il Lambrusco di Sorbara può essere ottenuto da rifermentazione naturale in bottiglia?",
+                      "options": ["Vero", "Falso"],
+                      "answer": "Vero"
+                    },
+                    {
+                      "categoria": "Emilia-Romagna",
+                      "question": "In Emilia, nella DOC Colli Bolognesi, il pignoletto non è prodotto in versione Spumante, mentre nella DOCG Colli Bolognesi Classico è consentito.",
+                      "options": ["Vero", "Falso"],
+                      "answer": "Falso"
+                    },
+                    {
+                      "categoria": "Marche",
+                      "question": "Il verdicchio bianco impiegato a Jesi è differente rispetto a quello usato a Matelica.",
+                      "options": ["Vero", "Falso"],
+                      "answer": "Falso"
+                    },
+                    {
+                      "categoria": "Marche",
+                      "question": "Nella DOC Colli Pesaresi Roncaglia Spumante il pinot nero si vinifica in rosso",
+                      "options": ["Vero", "Falso"],
+                      "answer": "Falso"
+                    },
+                    {
+                      "categoria": "Emilia-Romagna",
+                      "question": "Romagna. I biotipi di sangiovese sono cinque: sangiovese piccolo, sangiovese grosso, prugnolo gentile, brunello e morellino.",
+                      "options": ["Vero", "Falso"],
+                      "answer": "Falso"
+                    },
+                    {
+                      "categoria": "Marche",
+                      "question": "Marche. Maceratino è un tipico vitigno della DOC Colli Maceratesi, il cui altro nome è montecchiese",
+                      "options": ["Vero", "Falso"],
+                      "answer": "Vero"
+                    },
+                    {
+                      "categoria": "Marche",
+                      "question": "Le versioni della DOCG Offida sono tre: Passerina, Pecorino e Sangiovese.",
+                      "options": ["Vero", "Falso"],
+                      "answer": "Falso"
+                    },
+                    {
+                      "categoria": "Generale",
+                      "question": "Il profumo fragrante nasce dalla fermentazione malolattica",
+                      "options": ["Vero", "Falso"],
+                      "answer": "Falso"
+                    },
+                    {
+                      "categoria": "Marche",
+                      "question": "Sono affermazioni false parlando di vitigno verdicchio bianco coltivato nelle Marche:",
+                      "options": ["Gradisce terreni argillosi", "Marino è un suo sinonimo", "È alloctono"],
+                      "answer": "È alloctono"
+                    },
+                    {
+                      "categoria": "Marche",
+                      "question": "Marche. Quali sono i vitigni base per le DOC (1)Falerio e (2)Esino Bianco?",
+                      "options": ["1)Trebbiano, 2)Verdicchio", "Entrambi trebbiano", "1)Trebbiano, 2)Biancame"],
+                      "answer": "1)Trebbiano, 2)Verdicchio"
+                    },
+                    {
+                      "categoria": "Generale",
+                      "question": "Un vino viscoso è molto ricco, in particolare, di:",
+                      "options": ["Alcol", "Acidi", "Sostanze sapide", "Zuccheri"],
+                      "answer": "Zuccheri"
+                    },
+                    {
+                      "categoria": "Marche",
+                      "question": "Qual è la provincia delle Marche in cui c’è minore coltivazione di uva sangiovese?",
+                      "options": ["Ancona", "Pesaro Urbino", "Macerata"],
+                      "answer": "Macerata"
+                    },
+                    {
+                      "categoria": "Emilia-Romagna",
+                      "question": "In Emilia, nella DOC Reggiano Lambrusco è ammesso l’impiego del vitigno:",
+                      "options": ["Sgavetta", "Lambrusco marani", "Fogarina"],
+                      "answer": "Lambrusco marani"
+                    },
+                    
+                        {
+                          "categoria": "Marche",
+                          "question": "Marche. Il Terre di Offida Pecorino è prodotto anche nella tipologia spumante.",
+                          "options": ["Vero", "Falso"],
+                          "answer": "Falso"
+                        },
+                        {
+                          "categoria": "Generale",
+                          "question": "L’equilibrio gustativo del vino non ha riflessi sulla gradevolezza olfattiva",
+                          "options": ["Vero", "Falso"],
+                          "answer": "Vero"
+                        },
+                        {
+                          "categoria": "Emilia-Romagna",
+                          "question": "Emilia. Il Colli di Parma Spumante impiega i vitigni pinot nero, chardonnay, pinot bianco: da zero al 100%.",
+                          "options": ["Vero", "Falso"],
+                          "answer": "Vero"
+                        },
+                        {
+                          "categoria": "Emilia-Romagna",
+                          "question": "Il Lambrusco di Sorbara DOC, prodotto in Emilia, può essere fermentato/rifermentato in bottiglia o in autoclave",
+                          "options": ["Vero", "Falso"],
+                          "answer": "Vero"
+                        },
+                        {
+                          "categoria": "Emilia-Romagna",
+                          "question": "Il lambrusco di sorbara coltivato in Emilia dà vini dai colori più colorati rispetto al lambrusco grasparossa.",
+                          "options": ["Vero", "Falso"],
+                          "answer": "Falso"
+                        },
+                        {
+                          "categoria": "Emilia-Romagna",
+                          "question": "Fortana del Taro è una DOC dell’Emilia Romagna",
+                          "options": ["Vero", "Falso"],
+                          "answer": "Falso"
+                        },
+                        {
+                          "categoria": "Generale",
+                          "question": "La tonalità del colore del vino non dipende dal vitigno",
+                          "options": ["Vero", "Falso"],
+                          "answer": "Falso"
+                        },
+                        {
+                          "categoria": "Marche",
+                          "question": "Marche. Nella produzione della Vernaccia di Serrapetrona DOCG, all’atto della vendemmia non possono essere vinificate più del 60% delle uve che comporranno la cuvée finale.",
+                          "options": ["Vero", "Falso"],
+                          "answer": "Vero"
+                        },
+                        {
+                          "categoria": "Marche",
+                          "question": "Il Lacrina di Morro d’Alba ha la versione Passito",
+                          "options": ["Vero", "Falso"],
+                          "answer": "Vero"
+                        },
+                        {
+                          "categoria": "Marche",
+                          "question": "La coltivazione di cabernet sauvignon nelle Marche è concentrata nella provincia di Macerata",
+                          "options": ["Vero", "Falso"],
+                          "answer": "Falso"
+                        },
+                        {
+                          "categoria": "Emilia-Romagna",
+                          "question": "Emilia-Romagna. Sono vitigni contemplati nel disciplinare della DOC Colli Bolognesi, sottozona Bologna:",
+                          "options": ["Sauvignon", "Pignoletto", "Albana"],
+                          "answer": "Sauvignon"
+                        },
+                        {
+                          "categoria": "Emilia-Romagna",
+                          "question": "La possibilità di ottenere in Emilia-Romagna i vini in versione Frizzante è prerogativa:",
+                          "options": ["Dell'Emilia-Romagna", "Della Romagna", "Dell'Emilia"],
+                          "answer": "Dell'Emilia"
+                        },
+                        {
+                          "categoria": "Emilia-Romagna",
+                          "question": "Siamo in Emilia: barbera 55-70% e croatina 30-45%; qual è la DOC?",
+                          "options": ["Colli Bolognesi", "Gutturnio", "Bosco Eliceo"],
+                          "answer": "Gutturnio"
+                        },
+                        {
+                          "categoria": "Emilia-Romagna",
+                          "question": "Sono affermazioni corrette parlando del vitigno cagnina, così chiamato e coltivato, in Emilia-Romagna:",
+                          "options": ["È usato nella DOC Colli di Faenza", "È sinonimo di terrano", "Dà vini tannici e robusti"],
+                          "answer": "È sinonimo di terrano"
+                        },
+                        {
+                          "categoria": "Marche",
+                          "question": "In quale DOC delle Marche si impiega l’uva pinot nero:",
+                          "options": [
+                            "Rosso Piceno Superiore",
+                            "Colli Pesaresi, sottozona Focara e Roncaglia",
+                            "Colli Maceratesi Rosso",
+                            "Esino"
+                          ],
+                          "answer": "Colli Pesaresi, sottozona Focara e Roncaglia"
+                        },
+                        {
+                          "categoria": "Lazio",
+                          "question": "Lazio. Il Moscato di Terracina spumante non deve contenere il 100% di uva moscato",
+                          "options": ["Vero", "Falso"],
+                          "answer": "Falso"
+                        },
+                        {
+                          "categoria": "Lazio",
+                          "question": "Lazio. L’Aleatico di Gradoli Liquoroso Riserva deve sostare minimo 2 anni in botti di legno di rovere, della capacità massima di 250 litri",
+                          "options": ["Vero", "Falso"],
+                          "answer": "Vero"
+                        },
+                        {
+                          "categoria": "Lazio",
+                          "question": "Lazio. Nella DOC Colli Albani il vitigno malvasia bianca di Candia è chiamato malvasia rossa",
+                          "options": ["Vero", "Falso"],
+                          "answer": "Vero"
+                        },
+                        {
+                          "categoria": "Umbria",
+                          "question": "Umbria. Nella DOC Spoleto il vitigno principale è il trebbiano spoletino",
+                          "options": ["Vero", "Falso"],
+                          "answer": "Vero"
+                        },
+                        {
+                          "categoria": "Umbria",
+                          "question": "Umbria. La DOP Spoleto prevede solo l’impiego di uva trebbiano spoletino.",
+                          "options": ["Vero", "Falso"],
+                          "answer": "Vero"
+                        },
+                        
+                            {
+                              "categoria": "Lazio",
+                              "question": "Nel Lazio il bombino bianco non è vinificato in purezza.",
+                              "options": ["Vero", "Falso"],
+                              "answer": "Falso"
+                            },
+                            {
+                              "categoria": "Umbria",
+                              "question": "Umbria. La DOC Orvietano Rosso contempla la versione con 85% di Aleatico",
+                              "options": ["Vero", "Falso"],
+                              "answer": "Vero"
+                            },
+                            {
+                              "categoria": "Umbria",
+                              "question": "Montefalco Grechetto è una Doc",
+                              "options": ["Vero", "Falso"],
+                              "answer": "Vero"
+                            },
+                            {
+                              "categoria": "Lazio",
+                              "question": "Lazio. Il Nettuno Bianco DOC utilizza in prevalenza procanico e bellone",
+                              "options": ["Vero", "Falso"],
+                              "answer": "Vero"
+                            },
+                            {
+                              "categoria": "Lazio",
+                              "question": "Lazio. ll Moscato di Terracina Spumante deve essere prodotto con il Metodo Martinotti",
+                              "options": ["Vero", "Falso"],
+                              "answer": "Vero"
+                            },
+                            {
+                              "categoria": "Lazio",
+                              "question": "Il vitigno ciliegiolo coltivato nel Lazio è maggioritario nella DOC:",
+                              "options": ["Genazzano", "Cori", "Colli della Sabina"],
+                              "answer": "Genazzano"
+                            },
+                            {
+                              "categoria": "Umbria",
+                              "question": "Sono affermazioni false parlando del vitigno trebbiano toscano coltivato in Umbria:",
+                              "options": ["Procanico è un sinonimo", "Ha grappolo piccolo", "È di origine etrusca"],
+                              "answer": "Ha grappolo piccolo"
+                            },
+                            {
+                              "categoria": "Umbria",
+                              "question": "Umbria. È una tipologia produttiva contemplata nel disciplinare dell’Orvieto DOC:",
+                              "options": ["Passito", "Riserva", "Abboccato"],
+                              "answer": "Abboccato"
+                            },
+                            {
+                              "categoria": "Umbria",
+                              "question": "Umbria. Oltre al trebbiano, quale dei seguenti vitigni concorre obbligatoriamente all'elaborazione dell'Assisi bianco?",
+                              "options": ["Grechetto", "Malvasia bianca", "Verdello"],
+                              "answer": "Grechetto"
+                            },
+                            {
+                              "categoria": "Lazio",
+                              "question": "Trebbiano toscano, trebbiano verde e trebbiano giallo sono impiegati nella DOC Velletri",
+                              "options": ["Vero", "Falso"],
+                              "answer": "Vero"
+                            },
+                            {
+                              "categoria": "Umbria",
+                              "question": "Umbria. Nel Torgiano Vendemmia Tardiva le uve devono appassire solo in pianta.",
+                              "options": ["Vero", "Falso"],
+                              "answer": "Vero"
+                            },
+                            {
+                              "categoria": "Lazio",
+                              "question": "Nel Lazio l'uva montepulciano, nella DOC Tuscia, prende il nome di violetto",
+                              "options": ["Vero", "Falso"],
+                              "answer": "Falso"
+                            },
+                            {
+                              "categoria": "Umbria",
+                              "question": "In Umbria i territori del comune di Perugia non rientrano nella DOC Colli del Trasimeno",
+                              "options": ["Vero", "Falso"],
+                              "answer": "Falso"
+                            },
+                            {
+                              "categoria": "Umbria",
+                              "question": "Umbria. Il Trasimeno Gamay può essere prodotto nella versione “Novello” e “Riserva”",
+                              "options": ["Vero", "Falso"],
+                              "answer": "Vero"
+                            },
+                            {
+                              "categoria": "Lazio",
+                              "question": "La Malvasia del Lazio, detta anche malvasia puntinata, dà vini mediamente più raffinati rispetto a quelli ottenuti con malvasia bianca di Candia",
+                              "options": ["Vero", "Falso"],
+                              "answer": "Vero"
+                            },
+                            {
+                              "categoria": "Umbria",
+                              "question": "Umbria. Nella DOC Alto Tiberini il Grechetto lo si ottiene anche nella tipologia “Riserva”?",
+                              "options": ["Vero", "Falso"],
+                              "answer": "Falso"
+                            },
+                            {
+                              "categoria": "Lazio",
+                              "question": "Nel Lazio la DOC Colli Etruschi Viterbesi si impiega il vitigno grechetto, che ha la particolarità di essere a bacca rossa, anziché bianca",
+                              "options": ["Vero", "Falso"],
+                              "answer": "Vero"
+                            },
+                            {
+                              "categoria": "Lazio",
+                              "question": "Lazio. Nella fase di maturazione delle uve destinate alla produzione del Cannellino di Frascati DOCG è obbligatorio che almeno il 50% degli acini siano affetti da Botrytis Cinerea?",
+                              "options": ["Vero", "Falso"],
+                              "answer": "Falso"
+                            },
+                            {
+                              "categoria": "Lazio",
+                              "question": "Lazio. La DOP Cerveteri prevede la versione Cerveteri Trebbiano",
+                              "options": ["Vero", "Falso"],
+                              "answer": "Falso"
+                            },
+                            {
+                              "categoria": "Lazio",
+                              "question": "Lazio. Il Frascati Superiore DOCG non può fregiarsi della menzione Riserva.",
+                              "options": ["Vero", "Falso"],
+                              "answer": "Falso"
+                            },
+                            
+                                {
+                                  "categoria": "Generale",
+                                  "question": "Un tannino rugoso, accompagnato anche da un po’ di sapore amarognolo e da un effetto pelosità del carciofo, potrebbe essere conseguente a?",
+                                  "options": [
+                                    "Uve troppo torchiate",
+                                    "Uve non mature",
+                                    "Uso di botti vecchie",
+                                    "Eccessiva sosta in legno nuovo"
+                                  ],
+                                  "answer": "Uve troppo torchiate"
+                                },
+                                {
+                                  "categoria": "Umbria",
+                                  "question": "Sono affermazioni false parlando del vitigno grechetto coltivato in Umbria",
+                                  "options": [
+                                    "C'è il grechetto di. Todi",
+                                    "È considerato autoctono",
+                                    "È usato nella DOC Spoleto"
+                                  ],
+                                  "answer": "È usato nella DOC Spoleto"
+                                },
+                                {
+                                  "categoria": "Umbria",
+                                  "question": "Sono affermazioni corrette parlando del sangiovese coltivato in Umbria:",
+                                  "options": [
+                                    "Non matura precocemente",
+                                    "Uva tosca è un sinonimo",
+                                    "Ha grappolo cilindrico"
+                                  ],
+                                  "answer": "Non matura precocemente"
+                                },
+                                {
+                                  "categoria": "Lazio",
+                                  "question": "Nel Lazio l’uva greco è usata come monovitigno nella DOC:",
+                                  "options": ["Vignanello", "Atina", "Nettuno"],
+                                  "answer": "Vignanello"
+                                },
+                                {
+                                  "categoria": "Lazio",
+                                  "question": "Quali sono le quattro aree vitivinicole del Lazio?",
+                                  "options": [
+                                    "Vulsinia, Ciociaria, Agro Pontino, Colli della Sabina",
+                                    "Vulsinia, Ciociaria, Agro Pontino, Castelli Romani",
+                                    "Vulsinia, Ciociaria, Agro Pontino, Colli Etruschi Viterbesi"
+                                  ],
+                                  "answer": "Vulsinia, Ciociaria, Agro Pontino, Castelli Romani"
+                                },
+                                {
+                                  "categoria": "Umbria",
+                                  "question": "Umbria. Nella DOC Spoleto il vitigno principale è il trebbiano spoletino",
+                                  "options": ["Vero", "Falso"],
+                                  "answer": "Vero"
+                                },
+                                {
+                                  "categoria": "Lazio",
+                                  "question": "Lazio. Le uve destinate alla produzione del Cannellino di Frascati DOCG non possono essere sovramaturate artificialmente.",
+                                  "options": ["Vero", "Falso"],
+                                  "answer": "Falso"
+                                },
+                                {
+                                  "categoria": "Umbria",
+                                  "question": "Umbria. L’Orvieto superiore muffa nobile è prodotto solo nella versione “classico”",
+                                  "options": ["Vero", "Falso"],
+                                  "answer": "Falso"
+                                },
+                                {
+                                  "categoria": "Umbria",
+                                  "question": "Umbria. Il Trasimeno Gamay può essere prodotto anche nella versione “Riserva Superiore”",
+                                  "options": ["Vero", "Falso"],
+                                  "answer": "Falso"
+                                },
+                                {
+                                  "categoria": "Umbria",
+                                  "question": "Umbria. Le tipologie dell’Orvieto sono: secco, abboccato, amabile, dolce, superiore, vendemmia tardiva, superiore muffa nobile e spumante",
+                                  "options": ["Vero", "Falso"],
+                                  "answer": "Falso"
+                                },
+                                {
+                                  "categoria": "Lazio",
+                                  "question": "Lazio. Il Cannellino di Frascati DOCG non si può produrre nel territorio del comune di Monte Porzio Catone",
+                                  "options": ["Vero", "Falso"],
+                                  "answer": "Falso"
+                                },
+                                {
+                                  "categoria": "Lazio",
+                                  "question": "Lazio. Il Moscato di Terracina passito deve contenere l’85% minimo di uva moscato",
+                                  "options": ["Vero", "Falso"],
+                                  "answer": "Falso"
+                                },
+                                {
+                                  "categoria": "Umbria",
+                                  "question": "Umbria. La DOP Spoleto prevede solo l’impiego di uva trebbiano spoletino.",
+                                  "options": ["Vero", "Falso"],
+                                  "answer": "Vero"
+                                },
+                                {
+                                  "categoria": "Lazio",
+                                  "question": "Nel Lazio la DOC Colli Etruschi Viterbesi si impiega il vitigno grechetto, che ha la particolarità di essere a bacca rossa, anziché bianca",
+                                  "options": ["Vero", "Falso"],
+                                  "answer": "Vero"
+                                },
+                                {
+                                  "categoria": "Lazio",
+                                  "question": "Il vitigno trebbiano giallo coltivato nel Lazio è chiamato anche rossetto",
+                                  "options": ["Vero", "Falso"],
+                                  "answer": "Vero"
+                                },
+                                {
+                                  "categoria": "Lazio",
+                                  "question": "Non è un vitigno indicato come obbligatorio nel disciplinare della DOC Aprilia Rosso:",
+                                  "options": ["Sangiovese", "Merlot", "Abbuoto"],
+                                  "answer": "Abbuoto"
+                                },
+                                {
+                                  "categoria": "Lazio",
+                                  "question": "Il vino Castelli Romani DOC si produce nelle versioni:",
+                                  "options": ["Rosso e Rosato", "Solo Bianco", "Bianco, Rosso e Rosato"],
+                                  "answer": "Bianco, Rosso e Rosato"
+                                },
+                                {
+                                  "categoria": "Lazio",
+                                  "question": "Lazio. È una tipologia produttiva della DOC Bianco Capena:",
+                                  "options": ["Frizzante", "Riserva", "Superiore"],
+                                  "answer": "Superiore"
+                                },
+                                {
+                                  "categoria": "Umbria",
+                                  "question": "Umbria. È il vitigno più impiegato nelle DOC (1)Montefalco Rosso e (2)Assisi Rosso:",
+                                  "options": [
+                                    "(1)Sangiovese, (2)Gamay",
+                                    "Entrambe Sangiovese",
+                                    "(1)Sagrantino, (2)Sangiovese"
+                                  ],
+                                  "answer": "Entrambe Sangiovese"
+                                },
+                                {
+                                  "categoria": "Lazio",
+                                  "question": "Lazio. A quale personaggio è legata la storia del vino Est Est Est di Montefiascone?",
+                                  "options": [
+                                    "Papa Paolo III Farnese",
+                                    "Sante Lancerio",
+                                    "Vescovo Defuk"
+                                  ],
+                                  "answer": "Vescovo Defuk"
+                                }
+]                            
+                                                      
+                                     
+                                       
+                              
+              
+              
+      
+  

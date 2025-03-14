@@ -1,0 +1,107 @@
+/* Stili globali */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  /* Adatta lo stile dell'header per far spazio al pulsante */
+header {
+  position: relative;
+  width: 100%;
+  background-color: #333;
+  color: #fff;
+  padding: 20px 20px;
+  text-align: center;
+}
+  
+  /* Container principale */
+  main {
+    width: 90%;
+    max-width: 600px;
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Titoli delle sezioni */
+  section h2 {
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  /* Stili per i pulsanti */
+  button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: none;
+    border-radius: 3px;
+    background-color: #007BFF;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+ 
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Pulsanti disabilitati */
+  button:disabled {
+    opacity: 0.7;
+    cursor: default;
+  }
+  
+  /* Sezione quiz e risultati */
+  #quiz, #risultati {
+    text-align: center;
+  }
+  
+  /* Stile specifico per il container delle opzioni */
+  #opzioni button {
+    margin: 10px 0;
+  }
+  
+  /* Pulsante per la domanda successiva */
+  #prossima-domanda {
+    margin-top: 20px;
+  }
+  
+  /* Stile per il punteggio */
+  #punteggio {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .abort-button {
+    display: inline-block;
+    appearance: none;
+    -webkit-appearance: none;
+    background-color: #e74c3c;  /* Rosso */
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    min-width: 120px;
+    min-height: 40px;
+    font-size: 14px;
+    line-height: 40px;          /* Forza un'altezza minima per il bottone */
+    cursor: pointer;
+    border-radius: 4px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    z-index: 10;
+    transition: background-color 0.3s ease;
+    text-align: center;
+  }
+  

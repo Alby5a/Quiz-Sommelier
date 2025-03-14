@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz per Sommelier AIS</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <!-- Nuovo pulsante per interrompere il test e tornare alla home -->
+    <button id="abort-quiz" class="abort-button" style="display: none;">Interrompi Test</button>
+    <h1>Quiz per l'esame di Sommelier AIS</h1>
+  </header>
+  <main>
+    <!-- Schermata di selezione della categoria -->
+    <section id="selezione-categoria">
+      <h2>Scegli la categoria</h2>
+      <div id="lista-categorie"></div>
+      <button id="quiz-random">Quiz Random</button>
+
+    </section>
+
+    <!-- Schermata del quiz -->
+    <section id="quiz" style="display: none;">
+      <div id="counter"></div>
+      <h2>Domanda</h2>
+      <p id="testo-domanda"></p>
+      <div id="opzioni"></div>
+      <button id="prossima-domanda" style="display: none;">Domanda successiva</button>
+   
+    </section>
+   
+ 
+    
+    <!-- Schermata dei risultati -->
+    <section id="risultati" style="display: none;">
+      <h2>Risultati</h2>
+      <p id="punteggio"></p>
+      <button id="ripeti-quiz">Ripeti Quiz</button>
+    </section>
+  </main>
+  <script src="script.js"></script>
+</body>
+
+
+</html>
