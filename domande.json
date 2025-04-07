@@ -1436,6 +1436,290 @@
                                   ],
                                   "answer": "Vescovo Defuk"
                                 }
+      {
+    "categoria": "Piemonte",
+    "question": "Nella DOC Valli Ossolane il nebbiolo è chiamato pugnet",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Piemonte",
+    "question": "Nei Colli Tortonesi il dolcetto è chiamato 'nibiò'",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Valle d'Aosta",
+    "question": "Enfer d'Arvier e Arnad-Montjovet sono ottenuti con lo stesso vitigno",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Valle d'Aosta",
+    "question": "In Valle d'Aosta il gamay e il gamaret sono lo stesso vitigno",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Generale",
+    "question": "Terralba è il nome di una Doc del Piemonte",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Piemonte",
+    "question": "La DOC Strevi prevede solo l’impiego di uva moscato bianco appassita",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Piemonte",
+    "question": "Il Langhe Nebbiolo deve maturare 12 mesi in legno",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Piemonte",
+    "question": "Il vitigno più coltivato in Piemonte è il nebbiolo",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Piemonte",
+    "question": "Nella produzione del Barolo Chinato oltre all'aggiunta di erbe, china e alcol, si può impiegare anche lo zucchero.",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Piemonte",
+    "question": "Il Freisa di Chieri DOC non prevede la tipologia 'spumante dolce'",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Valle d'Aosta",
+    "question": "Sono vitigni internazionali coltivati in Valle d'Aosta:",
+    "options": ["Viognier", "Merlot", "Sauvignon"],
+    "answer": "Merlot"
+  },
+  {
+    "categoria": "Valle d'Aosta",
+    "question": "È un vitigno estraneo alla produzione della DOP Valle d'Aosta:",
+    "options": ["Fumin", "Gamay", "Grignolino"],
+    "answer": "Grignolino"
+  },
+  {
+    "categoria": "Piemonte",
+    "question": "Sono due vitigni che possono accompagnare l’uva nebbiolo nella DOC Boca",
+    "options": ["Vespolina, dolcetto", "Uva rara, barbera", "Vespolina, uva rara"],
+    "answer": "Vespolina, uva rara"
+  },
+  {
+    "categoria": "Piemonte",
+    "question": "Sono i vitigni principali delle DOCG (1)Barbaresco (2)Roero",
+    "options": [
+      "Barbera per entrambe",
+      "Nebbiolo per entrambe",
+      "(1)Nebbiolo, (2)Barbera"
+    ],
+    "answer": "Nebbiolo per entrambe"
+  },
+  {
+    "categoria": "Valle d'Aosta",
+    "question": "Quali sono le tipologie Superiore della DOC Valle d’Aosta:",
+    "options": ["Chambave", "Rosato", "Fumin"],
+    "answer": "Chambave"
+  }
+
+{
+    "categoria": "Valle d'Aosta",
+    "question": "Il Valle d'Aosta Chambave è un vino bianco secco",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Valle d'Aosta",
+    "question": "Il Valle d’Aosta Arnad-Montjovet è a base di uva nebbiolo",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Valle d'Aosta",
+    "question": "In Valle d'Aosta blanc de Nus è un sinonimo del vitigno Vien de Nus",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Valle d'Aosta",
+    "question": "Il pinot nero in Valle d'Aosta può essere anche vinificato in bianco senza perdere i requisiti della DOP.",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Piemonte",
+    "question": "L'Alta Langa è una macrozona viticola e una DOCG vocata alla produzione di spumanti metodo charmat a base di moscato bianco",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Piemonte",
+    "question": "Il Carema si può definire 'Nebbiolo di Montagna'.",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Piemonte",
+    "question": "La DOC Alba è una denominazione di ricaduta del territorio langhigiano",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Piemonte",
+    "question": "Il Langhe Nebbiolo deve maturare 12 mesi in legno",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Valle d'Aosta",
+    "question": "Enfer d'Arvier e Arnad-Montjovet sono ottenuti con lo stesso vitigno",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Valle d'Aosta",
+    "question": "Il Valle d'Aosta Donnas non si produce nella versione Riserva",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Valle d'Aosta",
+    "question": "In Valle d'Aosta i vigneti di Morgex si trovano su terreno:",
+    "options": [
+      "Sabbiosi e ricchi di scheletro",
+      "Marnosi con silex",
+      "Di natura granitica"
+    ],
+    "answer": "Di natura granitica"
+  },
+  {
+    "categoria": "Piemonte",
+    "question": "Quale area viticola non si trova nella macro area dell'Alto Piemonte?",
+    "options": ["Lessona", "Bramaterra", "Verduno Pelaverga"],
+    "answer": "Verduno Pelaverga"
+  },
+  {
+    "categoria": "Piemonte",
+    "question": "Sono macrozone di produzione dei vini del Piemonte?",
+    "options": [
+      "Monferrato Astigiano, Saluzzese e Torinese, Roero, Langhe, Alto Piemonte, Alta Langa, Asti, Acqui, Alto Monferrato",
+      "Monferrato Astigiano, Colli Tortonesi, Roero, Langhe, Alto Piemonte, Alta Langa, Asti, Acqui, Alto Monferrato",
+      "Saluzzese e Torinese, Roero, Langhe, Alto Piemonte, Alta Langa, Colli Astiani, Acqui, Alto Monferrato, Terre Alfieri"
+    ],
+    "answer": "Monferrato Astigiano, Saluzzese e Torinese, Roero, Langhe, Alto Piemonte, Alta Langa, Asti, Acqui, Alto Monferrato"
+  },
+  {
+    "categoria": "Piemonte",
+    "question": "È il vitigno che accomuna le DOC Strevi e Loazzolo:",
+    "options": ["Erbaluce", "Moscato bianco", "Cortese"],
+    "answer": "Moscato bianco"
+  },
+  {
+    "categoria": "Valle d'Aosta",
+    "question": "È un vitigno estraneo alla produzione della DOP Valle d'Aosta:",
+    "options": ["Fumin", "Gamay", "Riesling", "Grignolino"],
+    "answer": "Grignolino"
+  }
+
+{
+    "categoria": "Valle d'Aosta",
+    "question": "Il pinot nero in Valle d'Aosta può essere anche vinificato in bianco senza perdere i requisiti della DOP.",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Valle d'Aosta",
+    "question": "Il Valle d'Aosta Donnas non si produce nella versione Riserva",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Valle d'Aosta",
+    "question": "Alcuni autori sono propensi a individuare nel Vallese, in Svizzera, il luogo di origine del prié blanc",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Valle d'Aosta",
+    "question": "Il Valle d’Aosta Enfer d’Arvier è a base di pinot nero",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Piemonte",
+    "question": "Nella produzione del Barolo Chinato oltre all'aggiunta di erbe, china e alcol, si può impiegare anche lo zucchero.",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Piemonte",
+    "question": "Il vitigno più coltivato in Piemonte è il nebbiolo",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Piemonte",
+    "question": "L'Alta Langa è una macrozona viticola e una DOCG vocata alla produzione di spumanti metodo charmat a base di moscato bianco",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Piemonte",
+    "question": "Nei Colli Tortonesi il dolcetto è chiamato 'nibiò'",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Piemonte",
+    "question": "Nell'etichetta dell'Asti si può indicare la dizione 'Metodo Martinotti'.",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Piemonte",
+    "question": "La zona di produzione del Barbaresco non contempla alcuna parte del territorio del comune di Alba.",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Piemonte",
+    "question": "È un vino ottenuto da uva moscato bianco:",
+    "options": ["Loazzolo", "Coste della Sesia", "Alba"],
+    "answer": "Loazzolo"
+  },
+  {
+    "categoria": "Valle d'Aosta",
+    "question": "Quale vitigno a bacca bianca è considerato l’unico vitigno autoctono",
+    "options": ["Prié blanc", "Pinot gris", "Gamaret"],
+    "answer": "Prié blanc"
+  },
+  {
+    "categoria": "Piemonte",
+    "question": "Sono due vitigni che possono accompagnare l’uva nebbiolo nella DOC Boca",
+    "options": ["Vespolina, dolcetto", "Uva rara, barbera", "Vespolina, uva rara"],
+    "answer": "Vespolina, uva rara"
+  },
+  {
+    "categoria": "Valle d'Aosta",
+    "question": "È un vitigno estraneo alla produzione della DOP Valle d'Aosta:",
+    "options": ["Fumin", "Gamay", "Riesling", "Grignolino"],
+    "answer": "Grignolino"
+  },
+  {
+    "categoria": "Piemonte",
+    "question": "Quale areale viticolo si trova nelle Langhe?",
+    "options": ["Asti DOCG", "Gattinara DOCG", "Alba DOC"],
+    "answer": "Alba DOC"
+  }
 ]                            
                                                       
                                      
