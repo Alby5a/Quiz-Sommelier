@@ -765,7 +765,7 @@
               "answer": "Rosato secco"
             },
             {
-              "categoria": "Sardegna/Toscana",
+              "categoria": "Toscana",
               "question": "La vernaccia di Oristano coltivata in Sardegna e la vernaccia di San Gimignano coltivata in Toscana sono lo stesso vitigno?",
               "options": ["Vero", "Falso"],
               "answer": "Falso"
@@ -1719,7 +1719,564 @@
     "question": "Quale areale viticolo si trova nelle Langhe?",
     "options": ["Asti DOCG", "Gattinara DOCG", "Alba DOC"],
     "answer": "Alba DOC"
-  }
+  },
+{
+    "categoria": "Campania",
+    "question": "Nel Fiano di Avellino DOCG è ammesso un 15% di uve come coda di volpe, greco e falanghina.",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Campania",
+    "question": "L'Ischia Rosso, siamo in Campania, per potersi fregiare della DOC deve obbligatoriamente impiegare l'uva aglianico",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Campania",
+    "question": "L’uva falanghina è la base per la produzione in Campania del Penisola Sorrentina Bianco Sorrento Frizzante",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Campania",
+    "question": "L’uva bianca della Campania più rappresentativa della DOC Campi Flegrei è la falanghina",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Campania",
+    "question": "La DOC della Campania Costa D’Amalfi prevede solo due sottozone: Furore e Ravello.",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Campania",
+    "question": "In Campania, nei comuni della DOC Vesuvio l’uva coda di volpe è chiamata olivella",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Abruzzi",
+    "question": "In Abruzzo la DOC Controguerra si può riportare in etichetta la dizione Controguerra Cabernet, oppure Controguerra Merlot, ma non Controguerra Montepulciano.",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Campania",
+    "question": "Costa d’Amalfi Tramonti, elaborato in Campania, è prodotto solo in versione Rosso e Rosato",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Abruzzi",
+    "question": "Il Villamagna DOC, in Abruzzo prevede la versione bianco a base di trebbiano",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Campania",
+    "question": "I Taurasi più strutturati e tannici provengono dai vigneti che in Campania hanno sottosuolo di origine marina",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Molise",
+    "question": "Sono vitigni che il disciplinare del Molise Spumante Rosato riporta come utilizzabili:",
+    "options": ["Pino nero", "Montepulciano", "Verdicchio"],
+    "answer": "Montepulciano"
+  },
+  {
+    "categoria": "Abruzzi",
+    "question": "Quale delle seguenti è una tipologia produttiva della DOCG Tullum?",
+    "options": ["Passerina", "Cococciola", "Grecanico"],
+    "answer": "Passerina"
+  },
+  {
+    "categoria": "Molise",
+    "question": "Fa parte della composizione del Biferno Rosso DOC:",
+    "options": ["Aglianico", "Bovale grande", "Sangiovese"],
+    "answer": "Aglianico"
+  },
+  {
+    "categoria": "Campania",
+    "question": "Forastera 45-70%, biancolella 30-55%, altri per un max del 15%; in quale DOP si trovano queste uve?",
+    "options": ["Ischia", "Campi Flegrei", "Cilento"],
+    "answer": "Ischia"
+  },
+  {
+    "categoria": "Abruzzi",
+    "question": "Sono affermazioni corrette parlando del vitigno pecorino coltivato in Abruzzo:",
+    "options": ["Arquitano è un sinonimo", "Dà vini robusti", "È originario della Grecia"],
+    "answer": "Arquitano è un sinonimo"
+  },
+  {
+    "categoria": "Abruzzi",
+    "question": "Il Cerasuolo d’Abruzzo DOC si produce anche nella tipologia Superiore?",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Campania",
+    "question": "In Campania nella DOC Penisola Sorrentina sottozona Sorrento la delicatezza e la finezza del profumo fruttato e floreale e la sfumata nota di erbe aromatiche è apportata dalle uve pepella e biancazita.",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Campania",
+    "question": "In Campania, nel Sannio, dall'uva scianscinoso si ottengono vini dal corredo aromatico molto fruttato, struttura potente in tannino, tanto da richiedere una prolungata sosta in vetro per equilibrarsi.",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Campania",
+    "question": "L'Ischia Rosso, siamo in Campania, per potersi fregiare della DOC deve obbligatoriamente impiegare l'uva aglianico",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Campania",
+    "question": "La biancolella (vitigno a bacca bianca diffuso in Campania) ha anche dei sinonimi, alcuni di questi possono essere riportati in etichetta. Può infatti essere usato \"janculella\", ma non \"janculillo\".",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Campania",
+    "question": "In Campania, l’uva bianca di riferimento del Falerno del Massico DOC è il greco",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Campania",
+    "question": "Il Taurasi DOCG deve sottostare a una maturazione in legno di almeno un anno.",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Campania",
+    "question": "Nel Cilento Bianco DOC è obbligatorio l'uso del vitigno trebbiano toscano",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Molise",
+    "question": "In Molise, il Pentro di Isernia Rosso Riserva l’impiego di montepulciano è minimo del 90%",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Campania",
+    "question": "Campania. Il Fiano di Avellino è una DOCG",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Abruzzi",
+    "question": "Sono affermazioni corrette parlando del vitigno pecorino coltivato in Abruzzo:",
+    "options": ["Arquitano è un sinonimo", "Dà vini robusti", "È originario della Grecia"],
+    "answer": "Arquitano è un sinonimo"
+  },
+  {
+    "categoria": "Campania",
+    "question": "Nel Fiano di Avellino DOCG la dizione \"Apianum\" significa:",
+    "options": [
+      "Il vino è stato ottenuto da vendemmia tardiva",
+      "Il vino è stato ottenuto da vendemmia tardiva con uve attaccate da Botryris",
+      "Il vino è d'origine classica"
+    ],
+    "answer": "Il vino è d'origine classica"
+  },
+  {
+    "categoria": "Molise",
+    "question": "Molise. È il sistema di allevamento della vite più utilizzato in provincia di Campobasso:",
+    "options": ["Tendone", "Sylvoz", "Cordone speronato"],
+    "answer": "Tendone"
+  },
+  {
+    "categoria": "Molise",
+    "question": "Sono vitigni che il disciplinare del Molise Spumante Bianco riporta come utilizzabili:",
+    "options": ["Montepulciano", "Sangiovese", "Tintilia"],
+    "answer": "Montepulciano"
+  },
+  {
+    "categoria": "Abruzzi",
+    "question": "Sono sottozone della Denominazione di Origine Controllata Montepulciano d'Abruzzo",
+    "options": [
+      "Casauria, Terre dei Vestini, Alto Tirino, Terre dei Peligni e Teate",
+      "Terre di Casauria, Vestini, Alto Mincio, Peligni e Terre di Teate",
+      "Terre di Casauria, Vestini, Alto Chietino, Colline dei Peligni, Terre Teatine",
+      "Casauria, Terra di Vestini, Alto Adriatico, Monti Peligni e Teramo"
+    ],
+    "answer": "Casauria, Terre dei Vestini, Alto Tirino, Terre dei Peligni e Teate"
+  },
+
+  {
+    "categoria": "Campania",
+    "question": "L'aglianico coltivato in Campania è un vitigno a maturazione tardiva",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Campania",
+    "question": "In Campania l'uva fiano matura prima dell'uva greco.",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Molise",
+    "question": "Il Biferno Rosato Superiore impiega il montepulciano",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Abruzzi",
+    "question": "Il Montepulciano d’Abruzzo Colline Teramane è una DOCG dell'Abruzzo",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Campania",
+    "question": "In Campania, Taurasi è prodotto da uva aglianico",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Campania",
+    "question": "L’uva falanghina è la base per la produzione in Campania del Penisola Sorrentina Bianco Sorrento Frizzante",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Campania",
+    "question": "In Campania, nella DOP Galluccio non è ammessa l’uva falanghina",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Abruzzi",
+    "question": "Nella DOC Montepulciano d’Abruzzo Sottozona Terre dei Peligni l’uva montepulciano è usata minimo al 95%, nella DOCG Montepulciano d’Abruzzo Colline Teramane il minimo è 90%.",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Abruzzi",
+    "question": "Il Montepulciano d’Abruzzo Colline Teramane è una DOC",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Campania",
+    "question": "In Campania, nei comuni della DOC Vesuvio l’uva coda di volpe è chiamata olivella",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Abruzzi",
+    "question": "Sono sottozone della Denominazione di Origine Controllata Montepulciano d'Abruzzo",
+    "options": [
+      "Casauria, Terre dei Vestini, Alto Tirino, Terre dei Peligni e Teate",
+      "Terre di Casauria, Vestini, Alto Mincio, Peligni e Terre di Teate",
+      "Terre di Casauria, Vestini, Alto Chietino, Colline dei Peligni, Terre Teatine",
+      "Casauria, Terra di Vestini, Alto Adriatico, Monti Peligni e Teramo"
+    ],
+    "answer": "Casauria, Terre dei Vestini, Alto Tirino, Terre dei Peligni e Teate"
+  },
+  {
+    "categoria": "Molise",
+    "question": "Molise. È un vitigno non contemplato come obbligatorio nella DOC Biferno Rosso:",
+    "options": ["Montepulciano", "Aglianico", "Sangiovese"],
+    "answer": "Sangiovese"
+  },
+  {
+    "categoria": "Generale",
+    "question": "Un vino viscoso è molto ricco, in particolare, di:",
+    "options": ["Alcol", "Acidi", "Sostanze sapide", "Zuccheri"],
+    "answer": "Zuccheri"
+  },
+  {
+    "categoria": "Campania",
+    "question": "È una DOC della Campania in cui si produce la tipologia Passito:",
+    "options": ["Ischia", "Aversa", "Penisola Sorrentina"],
+    "answer": "Ischia"
+  },
+  {
+    "categoria": "Molise",
+    "question": "Molise. È il sistema di allevamento della vite più utilizzato in provincia di Campobasso:",
+    "options": ["Tendone", "Sylvoz", "Cordone speronato"],
+    "answer": "Tendone"
+  },
+[
+  {
+    "categoria": "Generale",
+    "question": "Il profumo speziato deriva solo dalla sosta del vino in botte di legno.",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Calabria",
+    "question": "Nella produzione del vino dolce Greco di Bianco è ammesso l’uso del solo vitigno greco bianco.",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Puglia",
+    "question": "Nel Rosso di Cerignola è consentito l’impiego di trebbiano toscano",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Puglia",
+    "question": "Il negro amaro coltivato in Puglia è un vitigno a maturazione mediamente tardiva",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Calabria",
+    "question": "Il Cirò Classico comprende l’area definita storica dei comuni di Cirò, Cirò Marina e Crucoli?",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Calabria",
+    "question": "Nerello mascalese, nerello cappuccio, nerello mantellato sono tre vitigni con identità completamente diverse?",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Calabria",
+    "question": "Il Melissa Rosso contempla l'impiego anche di uve a bacca bianca",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Calabria",
+    "question": "Un sistema di allevamento della vite alquanto diffuso nella DOC Savuto è l’alberello",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Basilicata",
+    "question": "Il vitigno malvasia bianca di Basilicata è ammesso per produrre vini DOC e anche IGT",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Calabria",
+    "question": "Nella produzione del Terre di Cosenza Sottozona Verbicaro Moscato Passito, l’uva può essere appassita anche con disidratazione?",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Basilicata",
+    "question": "Nel Vulture il vitigno aglianico si coltiva in terreni dalla composizione:",
+    "options": ["Calcarea", "Tufacea", "Marnosa"],
+    "answer": "Tufacea"
+  },
+  {
+    "categoria": "Puglia",
+    "question": "Qual è il vitigno base dello Squinzano Rosso DOC?",
+    "options": ["Bombino nero", "Negroamaro", "Sangiovese"],
+    "answer": "Negroamaro"
+  },
+  {
+    "categoria": "Basilicata",
+    "question": "È il vitigno base da cui si ottiene il Matera Spumante Rosè:",
+    "options": ["Aglianico", "Pinot nero", "Primitivo"],
+    "answer": "Primitivo"
+  },
+  {
+    "categoria": "Basilicata",
+    "question": "Sono affermazioni corrette parlando del vitigno aglianico coltivato in Basilicata:",
+    "options": ["Matura precocemente", "Ha grappolo spargolo", "Mascolino è un suo clone"],
+    "answer": "Mascolino è un suo clone"
+  },
+  {
+    "categoria": "Calabria",
+    "question": "Sono vitigni che da soli o congiuntamente entrano nella DOC Bivongi Bianco:",
+    "options": ["Guardavalle e ansonica", "Greco bianco e pecorello", "Ansonica e zibibbo"],
+    "answer": "Guardavalle e ansonica"
+  },
+[
+  {
+    "categoria": "Calabria",
+    "question": "Nella DOC Scavigna è previsto l’impiego di riesling e pinot bianco",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Basilicata",
+    "question": "L'Aglianico del Vulture Superiore non deve obbligatoriamente sostare in contenitori di legno",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Calabria",
+    "question": "La fase dell’appassimento dell’uva greco bianco destinata alla produzione del Greco di Bianco DOC deve essere svolta solo su graticci al sole",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Puglia",
+    "question": "Castel del Monte Bombino Bianco è un vino DOCG",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Calabria",
+    "question": "La storia del vitigno greco bianco, da cui si ottiene il vino Greco di Bianco, risale all'VIII secolo a.C.",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Calabria",
+    "question": "Nella produzione del Cirò Rosso sono autorizzate le uve cabernet e merlot",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Puglia",
+    "question": "Nel Locorotondo DOC le uve complementari devono essere solo autoctone.",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Calabria",
+    "question": "Le uve complementari ammesse nella produzione del Greco di Bianco sono nella misura massima del 15%",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Calabria",
+    "question": "Nella produzione del Terre di Cosenza Sottozona Verbicaro Moscato Passito, l’uva può essere appassita anche con disidratazione?",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Puglia",
+    "question": "L'aglianico che si ottiene in Puglia, nella Murgia, ha più somiglianza con i vini del Vulture che quelli del Taburno.",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Puglia",
+    "question": "Qual è il vitigno base da cui si ottengono le DOC (1)Brindisi Rosso, (2)Barletta Rosso?",
+    "options": ["Entrambi negroamaro", "Entrambi uva di Troia", "1)Negroamaro, 2)Uva di Troia"],
+    "answer": "1)Negroamaro, 2)Uva di Troia"
+  },
+  {
+    "categoria": "Calabria",
+    "question": "Quali sono le macrozone vitivinicole della Calabria?",
+    "options": ["Cirotano, Locride, Cosentino, Reggino", "Cirotano, Cosentino, Locride, Lametino", "Locride, Reggino, Terre di Cosenza, Cirotano"],
+    "answer": "Cirotano, Cosentino, Locride, Lametino"
+  },
+  {
+    "categoria": "Basilicata",
+    "question": "Non è un vitigno diffusamente coltivato in Basilicata:",
+    "options": ["Aglianico", "Falanghina", "Sangiovese"],
+    "answer": "Falanghina"
+  },
+  {
+    "categoria": "Puglia",
+    "question": "È il vitigno dominante nel Castel del Monte Rosso Riserva DOCG:",
+    "options": ["Uva di Troia", "Negroamaro", "Malvasia nera di Brindisi"],
+    "answer": "Uva di Troia"
+  },
+  {
+    "categoria": "Puglia",
+    "question": "In quale DOC della Puglia si impiega l'uva \"hermitage\"?",
+    "options": ["Alezio", "Barletta", "Ostuni"],
+    "answer": "Ostuni"
+  },
+  {
+    "categoria": "Puglia",
+    "question": "Nella produzione del Primitivo di Manduria DOC è proibito l’uso di uve provenienti dalle femminelle.",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Calabria",
+    "question": "Nella zona di produzione del Savuto DOC il vitigno gaglioppo dolce prende il nome di arvino?",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Puglia",
+    "question": "Il Matino è una DOC della Puglia ottenuta con uve negroamaro, sangiovese e malvasia nera",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Basilicata",
+    "question": "L'Aglianico del Vulture Superiore Riserva deve sostare in legno, l'Aglianico del Vulture superiore no",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Calabria",
+    "question": "Nel territorio del comune di Crotone non si può ottenere il Cirò Classico",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Puglia",
+    "question": "In Puglia il negroamaro è il vitigno principale della DOC Salice Salentino Rosato",
+    "options": ["Vero", "Falso"],
+    "answer": "Vero"
+  },
+  {
+    "categoria": "Calabria",
+    "question": "Verbicaro è una DOC della Basilicata",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Calabria",
+    "question": "La DOC Terre di Cosenza contempla la tipologia Pecorino",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Calabria",
+    "question": "Nella DOC Savuto i vigneti si collocano fino a oltre 900 metri slm",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Calabria",
+    "question": "In Calabria nel territorio del comune di Cirò si può ottenere il Cirò Rosato Classico",
+    "options": ["Vero", "Falso"],
+    "answer": "Falso"
+  },
+  {
+    "categoria": "Puglia",
+    "question": "Qual è il vitigno base da cui si ottengono le DOC (1)Gioia del Colle Rosso e (2)Matino Rosso?",
+    "options": ["1)Primitivo, 2)Negroamaro", "Entrambi negroamaro", "1)Primitivo, 2)Uva di Troia"],
+    "answer": "1)Primitivo, 2)Negroamaro"
+  },
+  {
+    "categoria": "Puglia",
+    "question": "Nel vino Ostuni Bianco, oltre l’Impigno, quale uva viene largamente utilizzata?",
+    "options": ["Malvasia bianca lunga", "Pampanuto", "Francavilla"],
+    "answer": "Francavilla"
+  },
+  {
+    "categoria": "Calabria",
+    "question": "Lo Scavigna rosso ha come base il vitigno?",
+    "options": ["Aglianico", "Marcigliana nera", "Magliocco"],
+    "answer": "Aglianico"
+  },
+  {
+    "categoria": "Puglia",
+    "question": "È il più diffuso vitigno a bacca nera della Puglia:",
+    "options": ["Primitivo", "Aglianico", "Sangiovese"],
+    "answer": "Sangiovese"
+  },
+  {
+    "categoria": "Calabria",
+    "question": "È l’uva più coltivata in Calabria:",
+    "options": ["Nerello mascalese", "Gaglioppo", "Nerello cappuccio"],
+    "answer": "Gaglioppo"
+  }      
 ]                            
                                                       
                                      
