@@ -1435,7 +1435,7 @@
                                     "Vescovo Defuk"
                                   ],
                                   "answer": "Vescovo Defuk"
-                                }
+                                },
       {
     "categoria": "Piemonte",
     "question": "Nella DOC Valli Ossolane il nebbiolo è chiamato pugnet",
@@ -1529,7 +1529,7 @@
     "question": "Quali sono le tipologie Superiore della DOC Valle d’Aosta:",
     "options": ["Chambave", "Rosato", "Fumin"],
     "answer": "Chambave"
-  }
+  },
 
 {
     "categoria": "Valle d'Aosta",
@@ -1628,7 +1628,7 @@
     "question": "È un vitigno estraneo alla produzione della DOP Valle d'Aosta:",
     "options": ["Fumin", "Gamay", "Riesling", "Grignolino"],
     "answer": "Grignolino"
-  }
+  },
 
 {
     "categoria": "Valle d'Aosta",
